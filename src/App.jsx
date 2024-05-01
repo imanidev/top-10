@@ -100,6 +100,7 @@ function BillBoardData({ songs, albumViewFiltered }) {
           </div>
         </div>
       ))}
+      <footer>Imani Roberts &copy; 2024 </footer>
     </div>
   );
 }

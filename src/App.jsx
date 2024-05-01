@@ -22,9 +22,7 @@ function Home() {
 
   return (
     <main>
-      <h1>React Top 10 Project</h1>
-      <p className="text-lg">Top 10 Songs</p>
-
+      <h1>Top 10 Songs</h1>
       <section className="songs-section">
         <div>
           <FilterAlbumsButton
